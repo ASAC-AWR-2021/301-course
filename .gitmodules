@@ -1,0 +1,9 @@
+[submodule "examDemo/301final"]
+	path = examDemo/301final
+	url = https://github.com/TrunkOfUkuleles/301final.git
+[submodule "examDemo/301Final-React"]
+	path = examDemo/301Final-React
+	url = https://github.com/jeremywbrazell/301Final-React.git
+[submodule "examDemo/react301-ui-final"]
+	path = examDemo/react301-ui-final
+	url = https://github.com/vishnum2/react301-ui-final.git

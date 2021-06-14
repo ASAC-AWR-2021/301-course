@@ -7,3 +7,36 @@
 [submodule "examDemo/react301-ui-final"]
 	path = examDemo/react301-ui-final
 	url = https://github.com/vishnum2/react301-ui-final.git
+[submodule "AbeerPortfolio"]
+	path = AbeerPortfolio
+	url = https://github.com/AbeerAl-Rafati/AbeerPortfolio.git
+[submodule "BookApp"]
+	path = BookApp
+	url = https://github.com/AbeerAl-Rafati/BookApp.git
+[submodule "Abeer-data-structures-and-algorithms"]
+	path = Abeer-data-structures-and-algorithms
+	url = https://github.com/AbeerAl-Rafati/Abeer-data-structures-and-algorithms.git
+[submodule "class-03-react"]
+	path = class-03-react
+	url = https://github.com/AbeerAl-Rafati/class-03-react.git
+[submodule "Location-search-bar"]
+	path = Location-search-bar
+	url = https://github.com/AbeerAl-Rafati/Location-search-bar.git
+[submodule "city-explorer-api"]
+	path = city-explorer-api
+	url = https://github.com/AbeerAl-Rafati/city-explorer-api.git
+[submodule "class5-react"]
+	path = class5-react
+	url = https://github.com/AbeerAl-Rafati/class5-react.git
+[submodule "class-02"]
+	path = class-02
+	url = https://github.com/AbeerAl-Rafati/class-02.git
+[submodule "first-react-app"]
+	path = first-react-app
+	url = https://github.com/AbeerAl-Rafati/first-react-app.git
+[submodule "301EXAM"]
+	path = 301EXAM
+	url = https://github.com/AbeerAl-Rafati/301EXAM.git
+[submodule "booksBack-end"]
+	path = booksBack-end
+	url = https://github.com/ahmadammmoura/booksBack-end.git
